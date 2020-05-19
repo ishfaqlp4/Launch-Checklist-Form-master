@@ -111,9 +111,3 @@ window.addEventListener("load", function () {
     }
   });
 });
-
-// Write your JavaScript code here!
-
-/* This block of code shows how to format the HTML once you fetch some planetary JSON!
-
-*/
